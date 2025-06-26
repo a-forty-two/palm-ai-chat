@@ -1,7 +1,7 @@
-# Consuming Gemmini
+# Consuming Gemini
 
 #Modified by: Shantanu Pandey, 
-(Google Clooud Authorized Trainer, NVIDIA Instructor, Microsoft Certified Trainer, HPE Instructor)
+(Google Cloud Authorized Trainer, NVIDIA Instructor, Microsoft Certified Trainer, HPE Instructor)
 
 This demo is a Python Flask web app that uses the Google PaLM API for generative AI.
 
